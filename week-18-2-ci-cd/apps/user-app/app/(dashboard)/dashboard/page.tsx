@@ -1,6 +1,7 @@
 
 export default function() {
     return <div>
-        Dashboard
+        This is a very nice Dashboard..
+        What are you looking for 
     </div>
 }
